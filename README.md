@@ -81,4 +81,5 @@ The variables that we used in the research for crosschecking.
 | :-------- | :------------------------- |
 | title | The name of the title. |
 | rating | The rating on IMDB. |
+| votes | The number voted by people. |
 
