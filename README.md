@@ -80,6 +80,8 @@ The variables that we used in the research for crosschecking.
 | **Variables** | **Description**                |
 | :-------- | :------------------------- |
 | title | The name of the title. |
+| certificate | The age certification. |
+| genre | A list of genres. |
 | rating | The rating on IMDB. |
 | votes | The number voted by people. |
 
