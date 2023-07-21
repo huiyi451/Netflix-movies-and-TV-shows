@@ -9,20 +9,20 @@ The research data was sourced from Kaggle, by the author [VICTOR SOEIRO](https:/
 #### Research Data
 [Data](https://github.com/huiyi451/Netflix-movies-and-TV-shows/blob/main/research%20original%20data.csv) (data file linked from GitHub Repository) or Data file named 'research original data' in Data folder.
 
-[Cleaned Data](https://github.com/huiyi451) or Data file named 'research cleaned data' in Data folder.
+[Cleaned Data](https://github.com/huiyi451/Netflix-movies-and-TV-shows/blob/main/research%20cleaned%20data.csv) or Data file named 'research cleaned data' in Data folder.
 
 #### Crosschecking Data
 [Data](https://github.com/huiyi451/Netflix-movies-and-TV-shows/blob/main/crosschecking%20original%20data.csv) or Data file named 'crosschecking original data' in Data folder.
 
-[Cleaned Data](https://github.com/huiyi451) or Data file named 'crosschecking cleaned data' in Data folder.
+[Cleaned Data](https://github.com/huiyi451/Netflix-movies-and-TV-shows/blob/main/crosschecking%20cleaned%20data.csv) or Data file named 'crosschecking cleaned data' in Data folder.
 
 
 |  | **Observations** | **Variables**                |
 | :------------- | :----- | :---- |
 | Research Data | 5851 | 15 |
-| Research Data (Cleaned) |  |  |
+| Research Data (Cleaned) | 5831 | 9 |
 | Crosschecking Data | 9958 | 9 |
-| Crosschecking Data (Cleaned) |  |  |
+| Crosschecking Data (Cleaned) | 5091 | 5 |
 
 #
 ## Data Dictionary
